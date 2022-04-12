@@ -26,7 +26,9 @@ public:
         //chooses a random number from 0-9 multiplied by boss's difficulty
         //displays the amount of attack damage
         //returns the damage dealt so it can be subtracted
-
+        
+        
+        return 0; //This is here so the code runs, you will replace this line later in the lab.
     }
 };
 

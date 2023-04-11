@@ -52,11 +52,11 @@ int main()
 
         //Act based on player choice
         if (choice == 1) {
-            //Call boss basic attack
+            //Call basic attack on the boss
            
         }
         else if (choice == 2) {
-            //Call boss special attack
+            //Call special attack on the boss
           
         }
         else {
